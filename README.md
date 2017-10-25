@@ -1,1 +1,0 @@
-# demo-sass-subtheme
