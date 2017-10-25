@@ -1,6 +1,7 @@
 <!-- @file Instructions for subtheming using the Sass Starterkit. -->
 <!-- @defgroup sub_theming_sass -->
 <!-- @ingroup sub_theming -->
+<!-- You can just put entire demo folder along with bootstrap in themes folder -->
 # Sass Starterkit
 
 Below are instructions on how to create a Bootstrap sub-theme using a Sass
